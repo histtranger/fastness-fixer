@@ -44,25 +44,8 @@ caption {
   font-style: italic;
 }
 
-.text-left {
-  text-align: left;
-}
-
-.text-right {
-  text-align: right;
-}
-
 .text-center {
   text-align: center;
-}
-
-.normal {
-  font-weight: normal;
-  font-style: normal;
-}
-
-.not-bold {
-  font-weight: normal;
 }
 
 .not-italic {
@@ -75,14 +58,6 @@ caption {
 
 .italic {
   font-style: italic;
-}
-
-.text-upper {
-  text-transform: uppercase;
-}
-
-.text-lower {
-  text-transform: lowercase;
 }
 
 .wrapper {
