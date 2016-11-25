@@ -99,11 +99,6 @@ caption {
   line-height: 2.275rem;
 }
 
-.zetta {
-  font-size: 1.4757rem;
-  line-height: 1.95rem;
-}
-
 h1,
 .exa {
   font-size: 1.383rem;
@@ -148,15 +143,6 @@ small,
   line-height: 1.3rem;
 }
 
-.micro {
-  font-size: .8784rem;
-  line-height: 1.3rem;
-}
-
-ul {
-  padding-left: 1em;
-}
-
 ol {
   padding-left: 1.6em;
 }
@@ -187,44 +173,9 @@ input[type="radio"] {
   margin-bottom: 0;
 }
 
-.push-double,
-.push-2 {
-  margin-bottom: 2.6rem;
-}
-
 .push-half,
 .push-1-2 {
   margin-bottom: .65rem;
-}
-
-.push-quarter,
-.push-1-4 {
-  margin-bottom: .325rem;
-}
-
-.push-eighth,
-.push-1-8 {
-  margin-bottom: .1625rem;
-}
-
-.push-right-eighth,
-.push-r-1-8 {
-  margin-right: .1625rem;
-}
-
-.push-right-quarter,
-.push-r-1-4 {
-  margin-right: .325rem;
-}
-
-.push-right-half,
-.push-r-1-2 {
-  margin-right: .65rem;
-}
-
-.push-right,
-.push-r {
-  margin-right: 1.3rem;
 }
 
 .pad-top,
