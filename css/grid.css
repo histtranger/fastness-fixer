@@ -16,24 +16,6 @@
   flex-flow: row wrap;
 }
 
-.grid-bottom {
-  -webkit-align-items: flex-end;
-  -ms-align-items: flex-end;
-  align-items: flex-end;
-}
-
-.grid-middle {
-  -webkit-align-items: center;
-  -ms-align-items: center;
-  align-items: center;
-}
-
-.grid-stretch {
-  -webkit-align-items: stretch;
-  -ms-align-items: stretch;
-  align-items: stretch;
-}
-
 .opera-only :-o-prefocus,
 .grid {
   word-spacing: -.43em;
@@ -64,10 +46,6 @@
 .unit-xs-hidden {
   display: none;
   visibility: hidden;
-}
-
-.unit-xs-centered {
-  margin: 0 auto;
 }
 
 .unit-xs-1,
