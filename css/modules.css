@@ -1,7 +1,7 @@
 /*
  * Modulifier || Code released under the UNLICENSE
  * Code under other copyrights & licenses listed below.
- * https://modulifier.web-dev.tools/#responsive;images;list-group;embed;media-object;icons;hidden;positioning;nice-lists;buttons;forms;accessibility;print
+ * https://modulifier.web-dev.tools/#responsive;images;list-group;embed;media-object;icons;hidden;positioning;nice-lists;buttons;forms;accessibility;
  */
 
 @-moz-viewport { width: device-width; scale: 1; }
@@ -955,23 +955,6 @@ a:focus, [tabindex="0"]:focus {
 [aria-disabled] {
   cursor: default;
 }
-
-.print-only {
-  display: none;
-  visibility: hidden;
-}
-
-@media print {
-
-  .no-print {
-    display: none;
-    visibility: hidden;
-  }
-
-  .print-only {
-    display: block;
-    visibility: visible;
-  }
 
   /*
    * (c) HTML5 Boilerplate || MIT License
