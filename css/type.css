@@ -21,14 +21,6 @@ sup {
   vertical-align: baseline;
 }
 
-sup {
-  top: -.5em;
-}
-
-sub {
-  bottom: -.25em;
-}
-
 pre,
 code,
 kbd,
@@ -50,34 +42,6 @@ strong {
 dfn,
 caption {
   font-style: italic;
-}
-
-hr {
-  border: 0;
-  border-top: 1px solid;
-  height: 0;
-}
-
-table {
-  border-collapse: collapse;
-  border-spacing: 0;
-  width: 100%;
-  table-layout: fixed;
-}
-
-caption {
-  text-align: left;
-}
-
-th,
-td {
-  border-bottom: 1px solid;
-  text-align: left;
-  vertical-align: top;
-}
-
-thead th {
-  vertical-align: bottom;
 }
 
 .text-left {
